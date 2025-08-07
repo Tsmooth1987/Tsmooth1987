@@ -1,38 +1,43 @@
 # Hello, I'm Terence Webster! 👋
 
-## 🛡️ GRC & Cloud Security Professional
+## 🛡️ GRC Engineer & ISO 27001 Lead Auditor
 
-I'm passionate about building secure, compliant cloud environments and developing automated solutions for Governance, Risk, and Compliance (GRC) processes.
+I'm a Governance, Risk, and Compliance (GRC) professional specializing in AWS cloud security, compliance automation, and risk management. I'm passionate about building secure, compliant cloud environments and developing automated solutions that bridge the gap between security compliance and operational efficiency.
 
 ### 🚀 Quick Facts
 
-- 🔭 Currently working on: AWS security automation tools
-- 🌱 Learning: Advanced AWS security services
-- 💬 Ask me about: Cloud Security, GRC Automation, Python
+- 🔭 Currently working on: AWS security automation tools for GRC
+- 🌱 Learning: Advanced AWS security services and compliance frameworks
+- 💬 Ask me about: ISO 27001 Implementation, Cloud Security, GRC Automation
+- 🎯 Certifications: ISO 27001:2022 Lead Auditor, AWS Security Specialty, CISSP, CRISC
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ### 🛠️ Tech Stack
 
-#### Cloud & Infrastructure
+#### Cloud & Security
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Expert-ff6b6b?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
-#### Programming Languages
+#### Compliance & GRC
+![ISO 27001](https://img.shields.io/badge/ISO%202701-Expert-00509d?style=for-the-badge&logo=iso&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST%20CSF-Expert-00509d?style=for-the-badge&logo=nist&logoColor=white)
+![Risk Management](https://img.shields.io/badge/Risk%20Management-Expert-ff6b6b?style=for-the-badge&logo=securityscorecard&logoColor=white)
+
+#### Programming & Automation
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 📂 Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [🔒 S3 Bucket Auditor](https://github.com/Tsmooth1987/grc-portfolio) | Automated security auditing for AWS S3 buckets | Python, boto3, AWS S3 |
-| [🔑 IAM MFA Auditor](https://github.com/Tsmooth1987/grc-portfolio) | Check MFA compliance across IAM users | Python, AWS IAM |
-| [🛡️ EC2 Security Group Auditor](https://github.com/Tsmooth1987/grc-portfolio) | Identify risky security group rules | Python, AWS EC2 |
+| [🔒 AWS Automated Access Review](https://github.com/Tsmooth1987/aws_automated_access_review) | Automated IAM access review and remediation system | Python, AWS IAM, boto3 |
+| [🛡️ S3 Bucket Auditor](https://github.com/Tsmooth1987/grc-portfolio) | Comprehensive security auditing for AWS S3 buckets | Python, boto3, AWS S3 |
+| [🔑 IAM MFA Auditor](https://github.com/Tsmooth1987/grc-portfolio) | Enforce MFA compliance across IAM users | Python, AWS IAM, boto3 |
+| [🌐 EC2 Security Group Auditor](https://github.com/Tsmooth1987/grc-portfolio) | Identify and remediate risky security group rules | Python, AWS EC2, boto3 |
 
 ### 📈 GitHub Stats
 
@@ -58,4 +63,5 @@ I'm passionate about building secure, compliant cloud environments and developin
 ---
 
 ⭐️ From [Tsmooth1987](https://github.com/Tsmooth1987)
+
 
