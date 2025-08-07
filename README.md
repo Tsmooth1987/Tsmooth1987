@@ -1,5 +1,6 @@
 # Hello, I'm Terence Webster! 👋
-
+## 🚀 My Projects
+Check out my [Projects Portfolio](PROJECTS.md) to see my work in GRC and cloud security automation.
 ## 🛡️ GRC Engineer & ISO 27001 Lead Auditor
 
 I'm a Governance, Risk, and Compliance (GRC) professional specializing in AWS cloud security, compliance automation, and risk management. I'm passionate about building secure, compliant cloud environments and developing automated solutions that bridge the gap between security compliance and operational efficiency.
