@@ -24,11 +24,10 @@ Enhance AWS security posture by automatically identifying and remediating excess
 
 ---
 
-#### 🛡️ S3 Bucket Auditor
+#### [🛡️ S3 Bucket Auditor](https://github.com/Tsmooth1987/s3-bucket-auditor)
 **S3 Security & Compliance Scanner**  
 Comprehensive auditing tool for AWS S3 buckets to ensure security best practices and compliance with organizational policies.
 
-**Status**: In Development  
 **Tech Stack**: Python, AWS S3, boto3
 
 ---
