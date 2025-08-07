@@ -31,15 +31,57 @@ I'm a Governance, Risk, and Compliance (GRC) professional specializing in AWS cl
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📂 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [🔒 AWS Automated Access Review](https://github.com/Tsmooth1987/aws_automated_access_review) | Automated IAM access review and remediation system | Python, AWS IAM, boto3 |
-| [🛡️ S3 Bucket Auditor](https://github.com/Tsmooth1987/grc-portfolio) | Comprehensive security auditing for AWS S3 buckets | Python, boto3, AWS S3 |
-| [🔑 IAM MFA Auditor](https://github.com/Tsmooth1987/grc-portfolio) | Enforce MFA compliance across IAM users | Python, AWS IAM, boto3 |
-| [🌐 EC2 Security Group Auditor](https://github.com/Tsmooth1987/grc-portfolio) | Identify and remediate risky security group rules | Python, AWS EC2, boto3 |
+#### [🔒 AWS Automated Access Review](https://github.com/Tsmooth1987/aws_automated_access_review)
+**Automated IAM Access Review System**  
+Enhance AWS security posture by automatically identifying and remediating excessive IAM permissions. This tool helps maintain the principle of least privilege.
 
+**Tech Stack**: Python, AWS IAM, boto3, AWS Lambda  
+**Key Features**:
+- Automated permission reviews
+- Remediation workflows
+- Customizable policies
+- Detailed compliance reporting
+
+---
+
+#### [🛡️ S3 Bucket Auditor](https://github.com/Tsmooth1987/grc-portfolio)
+**S3 Security & Compliance Scanner**  
+Comprehensive auditing tool for AWS S3 buckets to ensure security best practices and compliance with organizational policies.
+
+**Tech Stack**: Python, AWS S3, boto3  
+**Key Features**:
+- Encryption status checks
+- Public access auditing
+- Versioning and logging verification
+- Custom compliance reporting
+
+---
+
+#### [🔑 IAM MFA Auditor](https://github.com/Tsmooth1987/grc-portfolio)
+**MFA Compliance Enforcer**  
+Automate the enforcement of Multi-Factor Authentication (MFA) across all IAM users in your AWS environment.
+
+**Tech Stack**: Python, AWS IAM, boto3  
+**Key Features**:
+- MFA status monitoring
+- Automated notifications
+- Compliance reporting
+- Customizable grace periods
+
+---
+
+#### [🌐 EC2 Security Group Auditor](https://github.com/Tsmooth1987/grc-portfolio)
+**Security Group Risk Analyzer**  
+Identify and remediate risky security group rules that could expose your AWS resources to potential threats.
+
+**Tech Stack**: Python, AWS EC2, boto3  
+**Key Features**:
+- Open port detection
+- Unrestricted access identification
+- Risk scoring
+- Automated remediation options
 ### 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tsmooth1987&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
