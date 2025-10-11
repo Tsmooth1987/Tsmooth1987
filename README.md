@@ -27,6 +27,7 @@ I build automated security and compliance solutions for cloud environments, spec
 ## 📊 Featured Projects
 
 ### 🔐 Security & Compliance Automation
+- **[Least-Privilege Checker](https://github.com/Tsmooth1987/least-privilege-checker)** - Advanced IAM policy analyzer with severity-based findings
 - **[S3 Auto-Remediator](https://github.com/Tsmooth1987/s3-auto-remediator)** - Automated S3 bucket security compliance
 - **[GRC Alerter](https://github.com/Tsmooth1987/grc-alerter)** - Real-time IAM policy violation alerts via SNS
 - **[IAM Policy Auditor](https://github.com/Tsmooth1987/iam-policy-auditor)** - Detect overly permissive IAM policies
